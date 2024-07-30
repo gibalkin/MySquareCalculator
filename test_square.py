@@ -92,3 +92,5 @@ class TestFigures(unittest.TestCase):
         with self.assertRaises(TypeError):
             Figure_by_coordinates([(0, 0), (4, 0), "invalid vertex"])
 
+
+#3d3dd3d3
